@@ -15,5 +15,7 @@ This project aims to explore and visualize the relationship between household si
 
 ### Reference
 Clark, B., Chatterjee, K., Melia, S., Knies, G. and Laurie, H. 2014. Life Events and Travel Behavior: Exploring the Interrelationship Using UK Household Longitudinal Study Data. Transportation research record. 2413(1), pp.54-64.
+
 Dargay, J., Hivert, L. and Legros, D. 2008. The dynamics of car availability in EU countries: A Comparison Based on the European Household Panel Survey. IATSS research. 32(2), pp.44-55.
+
 Scheiner, J. and Holz-Rau, C. 2012. Gender structures in car availability in car deficient households. Research in Transportation Economics. 34(1), pp.16-26.
