@@ -4,7 +4,7 @@ This project aims to explore and visualize the relationship between household si
 ### Data
 
 | Data | Description | Link to source |
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|
 | household_car.csv | This dataset provides Census 2021 estimates that classify all households in England and Wales by household size. | https://www.nomisweb.co.uk |
 | Household_size.csv | This dataset provides Census 2021 estimates on the number of cars or vans available to members of households for England and Wales. | https://www.nomisweb.co.uk |
 | OAC21.csv | This data provides output area classification for 2021. | https://data.cdrc.ac.uk/dataset/output-area-classification-2021 |
